@@ -24,7 +24,7 @@ public class CheeseController {
     @Autowired
     private CheeseDao cheeseDao;
 
-    // Request path: /cheese
+    // Request path: /cheese jkkkkkj
     @RequestMapping(value = "")
     public String index(Model model) {
 
